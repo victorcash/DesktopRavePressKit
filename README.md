@@ -6,6 +6,7 @@
 - [Demo preview guide](Press%20Kit/Reviewer%20Guide.md) — individual key activation, quick start, controls and recording notes.
 - [Screenshots](Screenshots/) and [graphics](GraphicAssets/) — coverage assets.
 - [Announcement trailer](https://youtu.be/ZPDBeV7jJk4) and [downloadable MP4](https://drive.google.com/file/d/1IGW7Pgp2MChqkPpSixwjEi5Id61g8Oel/view?usp=drive_link).
+- [12-second silent gameplay clip](Trailer/desktop-rave-audio-reactive-12s-silent.mp4) — a compact audio-reactive visual excerpt for coverage.
 - [Steam demo](https://store.steampowered.com/app/4987280/) and [full game](https://store.steampowered.com/app/3952790/).
 
 Press contact: **contact@28ducks.com**. Music heard through external playlists is subject to the track owner's terms; see the guide before publishing captured audio.
