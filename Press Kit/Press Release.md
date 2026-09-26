@@ -22,6 +22,7 @@ Screenshots, logos, a demo announcement trailer and a 12-second silent gameplay 
 
 ## Media contact and links
 
+- Spokesperson: [XiaoWei Qian](https://www.linkedin.com/in/xiaowei-qian-6a995b1b/), 28 Ducks
 - Press contact: [contact@28ducks.com](mailto:contact@28ducks.com)
 - Free demo: [Desktop Rave Demo on Steam](https://store.steampowered.com/app/4987280/)
 - Full game / wishlist: [Desktop Rave: Idle Audio Club on Steam](https://store.steampowered.com/app/3952790/)

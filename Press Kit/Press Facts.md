@@ -6,6 +6,7 @@
 - **Full-game date currently shown on Steam:** 11 November 2026
 - **Coverage policy:** No embargo. Screenshots, footage, impressions and coverage may be published whenever the recipient chooses.
 - **Press contact:** contact@28ducks.com
+- **Spokesperson:** [XiaoWei Qian](https://www.linkedin.com/in/xiaowei-qian-6a995b1b/), 28 Ducks
 
 [Demo FAQ](Demo%20FAQ.md) · [Preview / interview requests](Contact.md) · [Build and kit updates](Updates.md)
 

@@ -32,7 +32,7 @@ The announcement copy is dated **26 September 2026** and describes the demo's up
 - [Video download guide](Trailer/README.md) — direct download links, formats and music guidance.
 - [Steam demo](https://store.steampowered.com/app/4987280/) and [full game](https://store.steampowered.com/app/3952790/).
 
-Press contact: **contact@28ducks.com**. Music heard through external playlists is subject to the track owner's terms; see the guide before publishing captured audio.
+Spokesperson: **[XiaoWei Qian](https://www.linkedin.com/in/xiaowei-qian-6a995b1b/), 28 Ducks**. Press contact: **contact@28ducks.com**. Music heard through external playlists is subject to the track owner's terms; see the guide before publishing captured audio.
 
 ## Maintaining this kit
 

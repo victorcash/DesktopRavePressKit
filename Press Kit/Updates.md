@@ -16,5 +16,6 @@ The screenshot collection contains supplied gameplay captures with no recorded c
 - Added the demo FAQ, suggested first-look route, contact shortcuts and recording guidance.
 - Added a captioned gallery, a supplied heart-shaped club screenshot and a compact downloadable asset pack.
 - Documented the preview reference build and asset formats.
+- Named XiaoWei Qian as the 28 Ducks spokesperson, with a LinkedIn profile link.
 
 This entry describes changes to the press kit, not a new game update. The public demo launch is still scheduled for 30 September at 18:00 CEST / 16:00 UTC.

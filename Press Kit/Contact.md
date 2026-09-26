@@ -2,6 +2,8 @@
 
 **28 Ducks · Berlin, Germany**
 
+**Spokesperson:** [XiaoWei Qian](https://www.linkedin.com/in/xiaowei-qian-6a995b1b/), 28 Ducks.
+
 **Email:** [contact@28ducks.com](mailto:contact@28ducks.com)
 
 [Press-kit home](../README.md) · [Demo FAQ](Demo%20FAQ.md)

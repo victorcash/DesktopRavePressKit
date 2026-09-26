@@ -44,5 +44,6 @@ Desktop Rave: Idle Audio Club puts a tiny neon club in a transparent Windows des
 - [Screenshots](../Screenshots/) and [graphics](../GraphicAssets/) — images for coverage.
 - [Silent gameplay clip](../Trailer/desktop-rave-audio-reactive-12s-silent.mp4) — a 12-second video excerpt.
 - Press contact: [contact@28ducks.com](mailto:contact@28ducks.com).
+- Spokesperson: [XiaoWei Qian](https://www.linkedin.com/in/xiaowei-qian-6a995b1b/), 28 Ducks.
 
 For captured audio and music permissions, see the reviewer guide. Permission to use this press copy does not grant rights to third-party music.
