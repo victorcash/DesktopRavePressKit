@@ -2,7 +2,7 @@
 
 # Copy-and-paste press copy
 
-Publisher-supplied copy from 28 Ducks, prepared on **26 September 2026**. Copy, excerpt or adapt the sections below for Desktop Rave coverage under the [press-kit license](../LICENSE). **No embargo.** For coverage after the demo launches, check Steam availability and update the tense and dates.
+Written by 28 Ducks on **26 September 2026**. Use or edit the sections below for Desktop Rave coverage under the [press-kit license](../LICENSE). **No embargo.** If you're publishing after the demo launches, check Steam availability and update the tense and dates.
 
 ## Ready-to-use news brief
 
@@ -33,10 +33,6 @@ Desktop Rave: Idle Audio Club is a Windows desktop idle-management game where pl
 
 Desktop Rave: Idle Audio Club puts a tiny neon club in a transparent Windows desktop overlay. Players build and upgrade the club, welcome Ravers, and earn Vibe and Credits while its lighting and progression respond to their system audio. Developed and published by Berlin-based 28 Ducks, it is coming to Steam.
 
-## About 28 Ducks
-
-28 Ducks is a game developer and publisher based in Berlin, Germany. It is developing Desktop Rave: Idle Audio Club, a Windows desktop idle-management game built around an audio-reactive neon club.
-
 ## Editor resources
 
 - [Press facts](Press%20Facts.md) — release details and demo features.
@@ -44,6 +40,5 @@ Desktop Rave: Idle Audio Club puts a tiny neon club in a transparent Windows des
 - [Screenshots](../Screenshots/) and [graphics](../GraphicAssets/) — images for coverage.
 - [Silent gameplay clip](../Trailer/desktop-rave-audio-reactive-12s-silent.mp4) — a 12-second video excerpt.
 - Press contact: [contact@28ducks.com](mailto:contact@28ducks.com).
-- Spokesperson: [XiaoWei Qian](https://www.linkedin.com/in/xiaowei-qian-6a995b1b/), 28 Ducks.
 
 For captured audio and music permissions, see the reviewer guide. Permission to use this press copy does not grant rights to third-party music.

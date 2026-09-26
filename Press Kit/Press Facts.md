@@ -6,9 +6,8 @@
 - **Full-game date currently shown on Steam:** 11 November 2026
 - **Coverage policy:** No embargo. Screenshots, footage, impressions and coverage may be published whenever the recipient chooses.
 - **Press contact:** contact@28ducks.com
-- **Spokesperson:** [XiaoWei Qian](https://www.linkedin.com/in/xiaowei-qian-6a995b1b/), 28 Ducks
 
-[Demo FAQ](Demo%20FAQ.md) · [Preview / interview requests](Contact.md) · [Build and kit updates](Updates.md)
+[Demo FAQ](Demo%20FAQ.md) · [Preview keys and questions](Contact.md) · [Build and kit updates](Updates.md)
 
 [Demo Steam page](https://store.steampowered.com/app/4987280/) · [full-game Steam page](https://store.steampowered.com/app/3952790/) · [demo announcement trailer](https://youtu.be/ZPDBeV7jJk4) · [downloadable trailer](https://drive.google.com/file/d/1IGW7Pgp2MChqkPpSixwjEi5Id61g8Oel/view?usp=drive_link) · [12-second silent gameplay clip](https://github.com/victorcash/DesktopRavePressKit/blob/main/Trailer/desktop-rave-audio-reactive-12s-silent.mp4) · [visual assets](https://github.com/victorcash/DesktopRavePressKit)
 

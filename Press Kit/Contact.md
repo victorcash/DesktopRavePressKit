@@ -1,30 +1,30 @@
-# Press contact and preview requests
+# Questions, preview keys and help
 
 **28 Ducks · Berlin, Germany**
-
-**Spokesperson:** [XiaoWei Qian](https://www.linkedin.com/in/xiaowei-qian-6a995b1b/), 28 Ducks.
 
 **Email:** [contact@28ducks.com](mailto:contact@28ducks.com)
 
 [Press-kit home](../README.md) · [Demo FAQ](Demo%20FAQ.md)
 
+Thanks for checking out Desktop Rave. If you'd like to try the demo early, check a detail for an article or report something that isn't working, send an email. Questions and feedback are welcome.
+
 ## Request a demo preview key
 
 [Email a demo preview request](mailto:contact@28ducks.com?subject=Desktop%20Rave%20demo%20preview%20request).
 
-Include your name and outlet or channel link. If you have a publication deadline, include its date and time zone. Preview keys are supplied individually; please keep yours private. A preview key is for the demo, not the full game. You are under no obligation to publish coverage.
+Send a link to your outlet or channel. If you're working to a deadline, mention the date and time zone. Preview keys are for the demo, not the full game; please keep yours private. There's no obligation to cover the game.
 
-## Interviews, quotes and fact checks
+## Questions about the game
 
-[Email an interview or fact-check request](mailto:contact@28ducks.com?subject=Desktop%20Rave%20interview%20or%20fact%20check).
+[Send a question](mailto:contact@28ducks.com?subject=Desktop%20Rave%20question).
 
-Include the topic, questions, preferred written or live format, and deadline with time zone. For a live interview, suggest a few times. There is no coverage embargo.
+If you're unsure about a feature or want to check a detail before publishing, just ask. Send your questions and any deadline by email. There's no coverage embargo.
 
 ## Technical help
 
 [Email a demo support request](mailto:contact@28ducks.com?subject=Desktop%20Rave%20demo%20press%20support).
 
-Include the Build ID if available, Windows version, audio output device, what you expected and what happened. For capture problems, add the recording software/version and capture source you tried. A screenshot or short clip of the problem can help. Please do not include a Steam key in screenshots or recordings.
+Tell us what you tried and what happened. Your Windows version, audio output device and Build ID (if you have it) help with troubleshooting. For recording problems, include the software and capture source you used. A screenshot or short clip is useful too; keep your Steam key out of it.
 
 ## Additional assets
 

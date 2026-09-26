@@ -1,6 +1,6 @@
 # Maintaining the press kit
 
-The public entry point is [README](../README.md). Keep unfinished quotes, launch copy and internal campaign notes outside this public repository.
+The public entry point is [README](../README.md). Keep unverified launch copy and internal campaign notes outside this public repository. Use a straightforward, friendly developer voice: facts about the game, useful assets and practical help. Personal profiles, biographies, studio origin stories and prepared quotes are not part of this kit.
 
 ## Rebuild the deliverables
 
