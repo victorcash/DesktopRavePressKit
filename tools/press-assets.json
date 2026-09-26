@@ -1,0 +1,82 @@
+[
+  {
+    "source": "Screenshots/desktop-rave-heart-shaped-club.png",
+    "name": "desktop-rave-heart-shaped-club",
+    "title": "Heart-shaped neon club",
+    "caption": "A heart-shaped club layout in Desktop Rave: Idle Audio Club, with red lighting and a crowd of Ravers.",
+    "kind": "Gameplay screenshot",
+    "pack": true
+  },
+  {
+    "source": "Screenshots/Screenshot2.png",
+    "name": "desktop-rave-cyan-club-floor-collection",
+    "title": "Cyan club and Floor Skin collection",
+    "caption": "A cyan-lit desktop club beside the Floor Skin collection panel in Desktop Rave: Idle Audio Club.",
+    "kind": "Gameplay screenshot",
+    "pack": true
+  },
+  {
+    "source": "Screenshots/Screenshot6.png",
+    "name": "desktop-rave-building-placement",
+    "title": "Building a desktop club",
+    "caption": "The Build panel and a building placement preview in Desktop Rave: Idle Audio Club.",
+    "kind": "Gameplay screenshot",
+    "pack": true
+  },
+  {
+    "source": "Screenshots/Screenshot3.png",
+    "name": "desktop-rave-club-beside-notes",
+    "title": "A club alongside desktop notes",
+    "caption": "Desktop Rave: Idle Audio Club running beside a notes window, with the Ravers panel open.",
+    "kind": "Gameplay screenshot with desktop context",
+    "pack": true
+  },
+  {
+    "source": "Screenshots/Screenshot1.png",
+    "name": "desktop-rave-wide-club-progression",
+    "title": "Wide club layout and progression panel",
+    "caption": "A wide neon club layout with its progression panel open in Desktop Rave: Idle Audio Club.",
+    "kind": "Gameplay screenshot",
+    "pack": false
+  },
+  {
+    "source": "Screenshots/Screenshot4.png",
+    "name": "desktop-rave-club-beside-code-editor",
+    "title": "A club beside a code editor",
+    "caption": "A small Desktop Rave club sits in the corner of a desktop while a code editor occupies the main workspace.",
+    "kind": "Gameplay screenshot with desktop context",
+    "pack": false
+  },
+  {
+    "source": "Screenshots/Screenshot5.png",
+    "name": "desktop-rave-orange-club-music-player",
+    "title": "Orange-lit club beside a music player",
+    "caption": "An orange-lit club alongside an external music player in Desktop Rave: Idle Audio Club.",
+    "kind": "Gameplay screenshot with desktop context",
+    "pack": false
+  },
+  {
+    "source": "Screenshots/Screenshot7.png",
+    "name": "desktop-rave-light-module-selection",
+    "title": "Choosing a Light Module",
+    "caption": "The Light Module selection panel beside a neon club in Desktop Rave: Idle Audio Club.",
+    "kind": "Gameplay screenshot",
+    "pack": false
+  },
+  {
+    "source": "Screenshots/Screenshot8.png",
+    "name": "desktop-rave-level-11-tipping-jar-showcase",
+    "title": "Level 11 club and Tipping Jar showcase",
+    "caption": "A Level 11 gameplay showcase of Desktop Rave: Idle Audio Club with a Tipping Jar panel open. This image shows progression beyond the demo's Player Level 9 cap.",
+    "kind": "Gameplay showcase beyond the demo level cap",
+    "pack": false
+  },
+  {
+    "source": "Screenshots/Screenshot0.png",
+    "name": "desktop-rave-music-promotion-annotated",
+    "title": "Annotated music promotion image",
+    "caption": "A promotional desktop image of Desktop Rave: Idle Audio Club, with added text and an arrow highlighting the music connection.",
+    "kind": "Annotated promotional image; not an unaltered gameplay screenshot",
+    "pack": false
+  }
+]

@@ -7,6 +7,8 @@
 - **Coverage policy:** No embargo. Screenshots, footage, impressions and coverage may be published whenever the recipient chooses.
 - **Press contact:** contact@28ducks.com
 
+[Demo FAQ](Demo%20FAQ.md) · [Preview / interview requests](Contact.md) · [Build and kit updates](Updates.md)
+
 [Demo Steam page](https://store.steampowered.com/app/4987280/) · [full-game Steam page](https://store.steampowered.com/app/3952790/) · [demo announcement trailer](https://youtu.be/ZPDBeV7jJk4) · [downloadable trailer](https://drive.google.com/file/d/1IGW7Pgp2MChqkPpSixwjEi5Id61g8Oel/view?usp=drive_link) · [12-second silent gameplay clip](https://github.com/victorcash/DesktopRavePressKit/blob/main/Trailer/desktop-rave-audio-reactive-12s-silent.mp4) · [visual assets](https://github.com/victorcash/DesktopRavePressKit)
 
 ## Short description
@@ -16,6 +18,7 @@
 ## Demo highlights
 
 - Build and upgrade a desktop club, welcome Ravers, and earn **Vibe** and **Credits** as the club runs in the background.
+- Demo progression caps at **Player Level 9**, with a **Keep Playing** option after the completion prompt. The demo autosaves; its saves do not transfer to the full game.
 - Play your own system audio to drive the club's visual reaction; a fixed-beat synthetic mode is available in Settings → Audio when no Windows audio is available.
 - Move the borderless desktop club to fit a work or play setup. The demo's Steam page lists Windows 10 (64-bit) and **3 GB** of available storage as minimum requirements.
 - The demo lists **30 interface languages** on Steam. No known issues were reported in the tested build as of 25 September.
