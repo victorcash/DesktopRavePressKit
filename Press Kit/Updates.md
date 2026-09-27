@@ -10,6 +10,15 @@
 
 The screenshot collection contains supplied gameplay captures with no recorded capture Build IDs. They should not be used to identify the version of the current preview. The gallery labels the screenshot showing Player Level 11 separately from the demo, which caps progression at Player Level 9.
 
+## 27 September 2026 — game descriptions aligned
+
+- Added the agreed short, medium and long descriptions to the press-copy page.
+- Aligned the kit introduction, announcement, news brief, facts, FAQ and reviewer guide around music driving the economy, creating a unique club, strategic placement, customization, Raver feedback and desktop placement.
+- Replaced technical wording in the game descriptions with plain language. Exact settings and recording instructions remain in the help sections.
+- Refreshed the plain-text copy and essential ZIP.
+
+This is a copy update, not a new game build or a new gameplay test. The demo remains scheduled for 30 September 2026 at 18:00 CEST / 16:00 UTC, with no embargo.
+
 ## 26 September 2026 — press-kit update
 
 - Added the demo announcement press release, shorter article copy and matching plain text.

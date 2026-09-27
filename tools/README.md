@@ -2,6 +2,10 @@
 
 The public entry point is [README](../README.md). Keep unverified launch copy and internal campaign notes outside this public repository. Use a straightforward, friendly developer voice: facts about the game, useful assets and practical help. Personal profiles, biographies, studio origin stories and prepared quotes are not part of this kit.
 
+## Keep the descriptions aligned
+
+The short, medium and long descriptions in [Press Copy](../Press%20Kit/Press%20Copy.md#short-description) are the base for this kit. They match the campaign's core messaging document as of 27 September 2026. Update all three together when the agreed wording changes. Keep the same focus in the README, announcement, facts, FAQ and reviewer introduction: your music drives the economy, and you create your own unique club. The longer versions add strategic placement, customization, Raver feedback and the freedom to rotate, resize and move the club. Use technical terms only where needed to follow setup or recording instructions.
+
 ## Rebuild the deliverables
 
 Use Python 3.10+ with Pillow available:

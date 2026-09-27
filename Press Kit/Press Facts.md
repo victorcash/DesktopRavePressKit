@@ -13,18 +13,27 @@
 
 ## Short description
 
-**Desktop Rave: Idle Audio Club** is a desktop idle-management game where players grow a tiny neon club while its Ravers, lighting and progression respond to audio playing through Windows. It sits alongside other apps in a transparent desktop overlay. The free Steam demo opens to everyone on 30 September at 18:00 CEST / 16:00 UTC; selected reviewers can try it earlier with an individual demo preview key.
+Desktop Rave is an audio-reactive desktop companion and idle management game. Use your own music to drive the in-game economy and create your own unique club.
 
-## Demo highlights
+[Medium and long descriptions](Press%20Copy.md#medium-description) provide more detail for coverage.
 
-- Build and upgrade a desktop club, welcome Ravers, and earn **Vibe** and **Credits** as the club runs in the background.
+## Gameplay highlights
+
+- Be the DJ of your own club: choose your music and watch Ravers dance and earn currency with each beat.
+- Build and upgrade your club with strategic placement and options for lighting, textures and motion.
+- Interact with Ravers and get feedback on how you are running the club.
+- Rotate, resize and move the club freely to fit the space on your screen. Let it run while you use your PC.
+
+## Demo details
+
+- The free Steam demo is scheduled to open to everyone on **30 September 2026 at 18:00 CEST / 16:00 UTC**. Selected reviewers can try it earlier with an individual demo preview key.
 - Demo progression caps at **Player Level 9**, with a **Keep Playing** option after the completion prompt. The demo autosaves; its saves do not transfer to the full game.
-- Play your own system audio to drive the club's visual reaction; a fixed-beat synthetic mode is available in Settings → Audio when no Windows audio is available.
-- Move the borderless desktop club to fit a work or play setup. The demo's Steam page lists Windows 10 (64-bit) and **3 GB** of available storage as minimum requirements.
+- When you are not listening to anything, you can choose a built-in beat to keep the club moving. See the [reviewer guide](Reviewer%20Guide.md#getting-started) for the setting.
+- The demo's Steam page lists Windows 10 (64-bit) and **3 GB** of available storage as minimum requirements.
 - The demo lists **30 interface languages** on Steam. No known issues were reported in the tested build as of 25 September.
 
 ## Creator and music guidance
 
-The game analyzes audio played on the user's Windows system; its Music Playlist buttons open **external** Recommended and Streamer Friendly playlists. Playlist tracks are not bundled into the demo. The game does not grant rights to publish or monetize third-party music heard during capture. Independent creators may use actual NCS tracks for eligible online video or stream coverage if they follow [NCS's current usage policy](https://ncs.io/usage-policy), including the artist and track credit required there. Every outlet should check the specific track and intended use; using music already cleared for that outlet, or capturing without music, remains an option. The game itself may be shown in monetized coverage.
+The club reacts to sound playing on the PC; its Music Playlist buttons open **external** Recommended and Streamer Friendly playlists. Playlist tracks are not bundled into the demo. The game does not grant rights to publish or monetize third-party music heard during capture. Independent creators may use actual NCS tracks for eligible online video or stream coverage if they follow [NCS's current usage policy](https://ncs.io/usage-policy), including the artist and track credit required there. Every outlet should check the specific track and intended use; using music already cleared for that outlet, or capturing without music, remains an option. The game itself may be shown in monetized coverage.
 
 The unreleased full-game price is omitted because it is not publicly verified. Check the Steam pages for the latest release dates and system requirements.

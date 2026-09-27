@@ -1,6 +1,8 @@
 # Desktop Rave: Idle Audio Club — press kit
 
-**Desktop Rave** is a Windows desktop idle-management game with an audio-reactive neon club. The **free Steam demo** is scheduled to become public on **30 September 2026 at 18:00 CEST / 16:00 UTC**. **No embargo:** press and creators may publish coverage whenever they choose.
+Desktop Rave is an audio-reactive desktop companion and idle management game. Use your own music to drive the in-game economy and create your own unique club.
+
+The **free Steam demo** is scheduled to become public on **30 September 2026 at 18:00 CEST / 16:00 UTC**. **No embargo:** press and creators may publish coverage whenever they choose.
 
 Thanks for taking a look at the game. The demo details, screenshots, videos and copy are below. If you need something else or get stuck, email [contact@28ducks.com](mailto:contact@28ducks.com).
 
@@ -16,11 +18,11 @@ Videos are offered separately below; wallpapers are optional [extras](Wallpaper/
 ## Ready-to-publish copy
 
 - [Press release](Press%20Kit/Press%20Release.md) · [plain text](Press%20Kit/Press%20Release.txt) — the demo announcement, game details and links.
-- [Copy-and-paste press copy](Press%20Kit/Press%20Copy.md) · [plain text](Press%20Kit/Press%20Copy.txt) — a short news brief, headline options and game descriptions.
+- [Copy-and-paste press copy](Press%20Kit/Press%20Copy.md) · [plain text](Press%20Kit/Press%20Copy.txt) — a short news brief, headline options and the short, medium and long game descriptions.
 
 Use as much or as little of the copy as you need, and edit it to fit your article. Coverage can be monetized under the [press-kit license](LICENSE). The `.txt` versions are easy to paste into your editor; on GitHub, use **Raw** or **Download raw file**.
 
-The announcement copy is dated **26 September 2026** and describes the demo's upcoming release. For later coverage, check availability on Steam and update the tense and dates before publishing.
+The announcement was issued on **26 September 2026**, with game descriptions updated on **27 September 2026**. It describes the demo's upcoming release. For later coverage, check availability on Steam and update the tense and dates before publishing.
 
 ## Facts, preview access and assets
 
@@ -38,4 +40,4 @@ Press contact: **contact@28ducks.com**. Music heard through external playlists i
 
 ## Maintaining this kit
 
-Keep release details consistent with [Press facts](Press%20Kit/Press%20Facts.md) and the Steam pages. Rebuild the plain-text copy, image previews and ZIP together when changing the kit; see [maintenance instructions](tools/README.md).
+Use the three [game descriptions](Press%20Kit/Press%20Copy.md#short-description) as the base for new copy: your music drives the economy, and you create your own unique club. Keep release details consistent with [Press facts](Press%20Kit/Press%20Facts.md) and the Steam pages. Rebuild the plain-text copy, image previews and ZIP together when changing the kit; see [maintenance instructions](tools/README.md).

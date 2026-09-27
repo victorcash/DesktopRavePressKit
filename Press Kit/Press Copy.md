@@ -2,19 +2,19 @@
 
 # Copy-and-paste press copy
 
-Written by 28 Ducks on **26 September 2026**. Use or edit the sections below for Desktop Rave coverage under the [press-kit license](../LICENSE). **No embargo.** If you're publishing after the demo launches, check Steam availability and update the tense and dates.
+Written by 28 Ducks on **26 September 2026**. Game descriptions updated **27 September 2026**. Use or edit the sections below for Desktop Rave coverage under the [press-kit license](../LICENSE). **No embargo.** If you're publishing after the demo launches, check Steam availability and update the tense and dates.
 
 ## Ready-to-use news brief
 
-### Desktop Rave's free Steam demo brings a tiny neon club to your desktop on 30 September
+### Desktop Rave, the music-powered desktop companion, gets a free Steam demo on 30 September
 
-*The Windows idle-management game from Berlin developer 28 Ducks reacts to audio playing on your PC.*
+*Use your own music to drive the in-game economy and create your own unique club.*
 
-Desktop Rave: Idle Audio Club is getting a free Steam demo on 30 September 2026 at 18:00 CEST / 16:00 UTC. Developed and published by 28 Ducks, the Windows PC game places a neon club in a transparent desktop overlay alongside other apps.
+Desktop Rave: Idle Audio Club is an audio-reactive desktop companion and idle management game for Windows PC. Developed and published by 28 Ducks, it uses players' own music to drive the in-game economy as they create their own unique club. A free Steam demo is scheduled for 30 September 2026 at 18:00 CEST / 16:00 UTC.
 
-Players build and upgrade the club, welcome Ravers, and earn Vibe and Credits while it runs in the background. The club's Ravers, lighting and progression respond to audio playing through Windows, and its borderless overlay can be moved around the desktop.
+Players are the DJ of their own club, choosing the music while Ravers dance and earn currency with each beat. They can build and upgrade the club, use strategic placement, and customize its lighting, textures and motion. Ravers also give feedback on how the club is run.
 
-The demo includes an optional fixed-beat synthetic audio mode for use without Windows audio, and its Steam page lists 30 interface languages. Music Playlist buttons open external playlists rather than a bundled soundtrack.
+The club can be rotated, resized and moved freely to fit the space on the player's screen. It keeps running while they use their PC.
 
 The [free demo has its own Steam page](https://store.steampowered.com/app/4987280/). The [full game is available to wishlist on Steam](https://store.steampowered.com/app/3952790/), with release scheduled for 11 November 2026. A [demo announcement trailer](https://youtu.be/ZPDBeV7jJk4) and [press assets](https://github.com/victorcash/DesktopRavePressKit) are available online.
 
@@ -22,16 +22,36 @@ The [free demo has its own Steam page](https://store.steampowered.com/app/498728
 
 ## Alternative headlines
 
-- Desktop Rave turns your Windows desktop into an audio-reactive club; free demo arrives 30 September
-- Build a neon club alongside your apps in Desktop Rave's upcoming Steam demo
+- Your music powers the economy in Desktop Rave, an upcoming desktop companion and idle management game
+- Be the DJ of your own desktop club in Desktop Rave's free Steam demo on 30 September
 
-## One-sentence description
+## Game descriptions
 
-Desktop Rave: Idle Audio Club is a Windows desktop idle-management game where players grow a neon club that reacts to audio playing on their PC.
+Use these descriptions as the base for coverage. The short version introduces the game and its main idea; the medium and long versions add what players can do.
 
-## Short game description
+## Short description
 
-Desktop Rave: Idle Audio Club puts a tiny neon club in a transparent Windows desktop overlay. Players build and upgrade the club, welcome Ravers, and earn Vibe and Credits while its lighting and progression respond to their system audio. Developed and published by Berlin-based 28 Ducks, it is coming to Steam.
+Desktop Rave is an audio-reactive desktop companion and idle management game. Use your own music to drive the in-game economy and create your own unique club.
+
+## Medium description
+
+Desktop Rave is an audio-reactive desktop companion and idle management game. Use your own music to drive the in-game economy and create your own unique club.
+
+You are the DJ of your own club! Ravers dance to whatever music you're playing and earn currency with each beat.
+
+Build a fully customizable club with strategic placement and options for lighting, textures and motion.
+
+## Long description
+
+Desktop Rave is an audio-reactive desktop companion and idle management game. Use your own music to drive the in-game economy and create your own unique club.
+
+You are the DJ of your own club! Ravers dance to whatever music you're playing and earn currency with each beat.
+
+Build a fully customizable club with strategic placement and options for lighting, textures and motion.
+
+Interact with your Ravers and get feedback on how you're running the club.
+
+Rotate, resize and move your club freely to fit the space on your screen.
 
 ## Editor resources
 

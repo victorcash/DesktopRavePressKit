@@ -1,6 +1,6 @@
 # Desktop Rave demo — questions for coverage
 
-Updated 26 September 2026. [Press-kit home](../README.md) · [Reviewer guide](Reviewer%20Guide.md) · [Press contact](Contact.md)
+Updated 27 September 2026. [Press-kit home](../README.md) · [Reviewer guide](Reviewer%20Guide.md) · [Press contact](Contact.md)
 
 ## When and where can readers play?
 
@@ -12,7 +12,7 @@ Yes, an individually supplied demo preview key can unlock early access. [Request
 
 ## What does the demo let players do?
 
-Build and upgrade a desktop club, welcome Ravers, earn Vibe and Credits, and see the club react to audio playing through Windows. The club runs in a movable, transparent desktop overlay alongside other apps. A fixed-beat synthetic audio option is available when there is no system audio.
+Use your own music to drive the in-game economy and create your own unique club. Be the DJ: Ravers dance to your music and earn currency with each beat. Build and upgrade the club with strategic placement and options for lighting, textures and motion, interact with Ravers for feedback, and rotate, resize or move the club to fit your screen. See the [game descriptions](Press%20Copy.md#short-description) for copy you can use in coverage.
 
 ## Where does demo progression stop? Can I keep playing?
 
@@ -36,7 +36,7 @@ This kit does not announce an end date. Check the [demo's Steam page](https://st
 
 ## Does it come with music?
 
-The game reacts to audio playing through Windows. Its **Music Playlist** buttons open external playlists; those tracks are not bundled into the game. **Settings → Audio → Use synthetic audio** provides an optional fixed-beat mode. See the [recording guide](Recording%20Guide.md) for recording without third-party music.
+The game reacts to sound playing on your PC. Its **Music Playlist** buttons open external playlists; those tracks are not bundled into the game. When you are not listening to anything, **Settings → Audio → Use synthetic audio** lets you use a built-in beat to keep the club moving. See the [recording guide](Recording%20Guide.md) for recording without third-party music.
 
 ## What platform and languages are supported?
 

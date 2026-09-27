@@ -121,7 +121,7 @@ def generate() -> dict[str, bytes]:
             members[relative] = content
     members['START-HERE.txt'] = (
         'DESKTOP RAVE: IDLE AUDIO CLUB — ESSENTIAL PRESS PACK\n\n'
-        'Prepared 26 September 2026. No embargo.\n'
+        'Updated 27 September 2026. No embargo.\n'
         'Scheduled free demo: 30 September 2026, 18:00 CEST / 16:00 UTC.\n'
         'Check Steam availability and update pre-launch wording before later publication.\n\n'
         'Press Kit/: announcement, shorter copy, facts, FAQ, reviewer and recording help.\n'
@@ -163,7 +163,7 @@ def generate() -> dict[str, bytes]:
         '[Browse all screenshots](../Screenshots/README.md) · [Separate videos](../Trailer/README.md) · '
         '[Optional wallpapers](../Wallpaper/) · [Press-kit home](../README.md)\n\n'
         'Open `START-HERE.txt` after extracting the ZIP. Its written materials link back to the '
-        'public kit for extras. This pack contains pre-launch copy dated 26 September 2026; '
+        'public kit for extras. This pack contains the 26 September announcement with game descriptions updated 27 September 2026; '
         'check Steam availability before publishing later.\n\n'
         f'SHA-256: `{digest}`\n'
     ).encode('utf-8')

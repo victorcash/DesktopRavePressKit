@@ -1,14 +1,16 @@
 FOR IMMEDIATE RELEASE — NO EMBARGO
 
-Desktop Rave brings an audio-reactive neon club to Windows desktops with a free Steam demo on 30 September
+Desktop Rave, the music-powered desktop companion, gets a free Steam demo on 30 September
 
-28 Ducks' idle-management game lets players build a tiny club that reacts to audio playing on their PC.
+Use your own music to drive the in-game economy and create your own unique club.
 
-Berlin, Germany — 26 September 2026 — 28 Ducks will release a free Steam demo of Desktop Rave: Idle Audio Club for Windows PC on 30 September 2026 at 18:00 CEST / 16:00 UTC. The game runs in a transparent desktop overlay, allowing players to grow a neon club alongside their other apps.
+Game descriptions updated 27 September 2026; the announcement date remains 26 September 2026.
 
-Players build and upgrade their club, welcome Ravers, and earn Vibe and Credits as it runs in the background. Audio playing through Windows drives the club's reactions, connecting its Ravers, lighting and progression to what the player is listening to. The borderless club can be moved around the desktop to fit a work or play setup.
+Berlin, Germany — 26 September 2026 — 28 Ducks will release a free Steam demo of Desktop Rave: Idle Audio Club for Windows PC on 30 September 2026 at 18:00 CEST / 16:00 UTC. Desktop Rave is an audio-reactive desktop companion and idle management game. Players use their own music to drive the in-game economy and create their own unique club.
 
-The demo also includes an optional fixed-beat synthetic audio mode for play without Windows audio. Its Music Playlist buttons open external playlists; those tracks are not bundled with the game. Steam lists 30 interface languages for the demo.
+Players are the DJ of their own club. Ravers dance to whatever music is playing and earn currency with each beat. Building and upgrading the club combines strategic placement with options for lighting, textures and motion. Players can also interact with Ravers and get feedback on how they are running the club.
+
+The club can be rotated, resized and moved freely to fit the space on the screen, and it keeps running while players use their PC.
 
 The full game is scheduled for 11 November 2026 and can be wishlisted on Steam. The free demo has its own Steam page, linked below.
 

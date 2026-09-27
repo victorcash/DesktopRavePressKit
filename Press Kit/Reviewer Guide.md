@@ -1,6 +1,6 @@
 # Desktop Rave demo — reviewer guide
 
-**Desktop Rave: Idle Audio Club Demo** is a Windows desktop idle-management game whose club reacts to audio playing through the Windows output device. The demo is scheduled to become public on Steam **30 September 2026 at 18:00 CEST / 16:00 UTC**. **No embargo: you may publish screenshots, footage, impressions or coverage whenever you choose.** [Demo page](https://store.steampowered.com/app/4987280/) · [full game/wishlist](https://store.steampowered.com/app/3952790/) · [announcement trailer](https://youtu.be/ZPDBeV7jJk4) · [press kit](https://github.com/victorcash/DesktopRavePressKit).
+Desktop Rave is an audio-reactive desktop companion and idle management game. Use your own music to drive the in-game economy and create your own unique club. The demo is for Windows PC. The demo is scheduled to become public on Steam **30 September 2026 at 18:00 CEST / 16:00 UTC**. **No embargo: you may publish screenshots, footage, impressions or coverage whenever you choose.** [Demo page](https://store.steampowered.com/app/4987280/) · [full game/wishlist](https://store.steampowered.com/app/3952790/) · [announcement trailer](https://youtu.be/ZPDBeV7jJk4) · [press kit](https://github.com/victorcash/DesktopRavePressKit).
 
 ## Preview access
 
@@ -10,7 +10,7 @@ Need a preview key? [Request one from 28 Ducks](Contact.md#request-a-demo-previe
 
 ## Getting started
 
-The demo runs as a transparent Windows desktop overlay. Follow its short first-session onboarding to start your club. **Left-drag the island to move it, hold the right mouse button and drag to rotate the view, and use the mouse wheel to zoom.** WASD or arrow keys also move the camera. Click the floating toolbar to open **Build** and add to your club; **Settings → Audio** contains audio options. To see its audio reaction, play audio through your Windows output device and return to the club. The Music Playlist panel opens curated playlists in external services; these are links, not included music files. **Use synthetic audio** in Settings → Audio is an optional fixed-beat mode if no Windows audio is available; turn it off to resume real system-audio reaction. Windows 10 64-bit is the listed minimum OS; the Steam demo page lists **3 GB** storage.
+Follow the short first-session onboarding to start your club, then find a spot for it on your desktop. **Left-drag the island to move it, hold the right mouse button and drag to rotate the view, and use the mouse wheel to zoom.** WASD or arrow keys also move the camera. Click the floating toolbar to open **Build** and add to your club; **Settings → Audio** contains audio options. Put on some music and return to the club to watch the Ravers dance and earn currency. The Music Playlist panel opens curated playlists in external services; these are links, not included music files. If you are not listening to anything, **Use synthetic audio** in Settings → Audio supplies a built-in beat; turn it off to have the club react to your music again. Windows 10 64-bit is the listed minimum OS; the Steam demo page lists **3 GB** storage.
 
 **Languages:** The Steam demo page lists **30 interface languages**, all checked in the current preview build.
 
@@ -22,10 +22,10 @@ The demo allows continued play at its **Player Level 9** cap; there is no requir
 
 Allow around **10–15 minutes for an initial look**, or follow these steps at your own pace. This is an editorial route, not a timed playtest or a completion estimate; upgrades depend on your progress and resources.
 
-1. **Settle the club on your desktop.** Complete the first-session onboarding, then move, rotate and zoom the club so it fits beside another app. This establishes what makes the desktop overlay different from a regular game window.
-2. **Watch it respond to audio.** Play audio through Windows and watch the Ravers and lighting. Compare with **Use synthetic audio** if useful, then turn that option off again to return to real audio.
-3. **Build something available to you.** Open **Build**, choose an unlocked item you can afford and place it. Observe how the layout changes; inspect a building's upgrade option when you have enough resources.
-4. **Watch the idle loop.** See Ravers join the club and observe Vibe and Credits. Let it run beside another app for a moment. You do not need to reach the level cap to demonstrate the premise.
+1. **Fit the club to your desktop.** Complete onboarding, then move, rotate and resize the club to suit the space on your screen.
+2. **Be the DJ.** Play your own music and watch Ravers dance and earn currency with each beat. Watch the lighting react too.
+3. **Build and customize.** Open **Build**, choose an unlocked item you can afford and think about where to place it. Try the lighting, texture or motion options available to you, and inspect an upgrade when you have enough resources.
+4. **Check in with your Ravers.** Interact with them and read their feedback on the club. Let the club run while you use another app, then return to check on it.
 5. **Frame a useful image or clip.** Close panels you do not need, choose a readable club angle and capture both a club view and a desktop-context view. Use the [recording guide](Recording%20Guide.md) or download the supplied [images](../Screenshots/README.md) and [video](../Trailer/README.md).
 6. **Finish with Save & Exit.** Keep your existing club if you plan to return. There is no need to reset progress for coverage.
 
