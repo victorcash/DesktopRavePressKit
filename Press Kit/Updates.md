@@ -10,6 +10,15 @@
 
 The screenshot collection contains supplied gameplay captures with no recorded capture Build IDs. They should not be used to identify the version of the current preview. The gallery labels the screenshot showing Player Level 11 separately from the demo, which caps progression at Player Level 9.
 
+## 27 September 2026 — gameplay clip collection added
+
+- Linked the [six gameplay clips on Google Drive](../Video%20Clips/README.md) from the kit's start page and video guide.
+- Added a filename guide for the landscape and portrait clips and linked the supplied music note.
+- Labeled the clips as general gameplay showcases because some show levels beyond the demo's Level 9 cap. Capture Build IDs have not been supplied.
+- Corrected the legacy loop links to their current `SteamPageGif` folder.
+
+This is an asset-directory update, not a new game build or a fresh gameplay test. The original clips remain on Drive and outside the essential ZIP.
+
 ## 27 September 2026 — default video preview selected
 
 - Selected `Trailer/desktop-rave-vertical-gameplay-760x1080.mp4` as the default video preview: 760 × 1080, about 9.6 seconds, 9.3 MB, with audio.

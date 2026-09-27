@@ -10,6 +10,7 @@ Thanks for taking a look at the game. The demo details, screenshots, videos and 
 
 - **[Download the essential press pack](https://github.com/victorcash/DesktopRavePressKit/raw/refs/heads/main/Downloads/Desktop-Rave-Demo-Press-Pack.zip)** — copy, facts, reviewer help, four original 4K screenshots, a transparent logo and key art. Exact size and contents: [download details](Downloads/README.md).
 - **[Browse the captioned screenshot gallery](Screenshots/README.md)** — previews, original PNGs, suggested captions and credits.
+- **[Download gameplay clips](Video%20Clips/README.md)** — six landscape and portrait clips on Google Drive, with a guide to their subjects and audio.
 - **[Ask for a demo key or get in touch](Press%20Kit/Contact.md)** — questions and feedback are welcome.
 - **[Read the demo FAQ](Press%20Kit/Demo%20FAQ.md)** — progression limits, saves, full-game differences and availability.
 
