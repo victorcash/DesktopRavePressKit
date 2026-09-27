@@ -1,6 +1,6 @@
 # Essential press pack
 
-**[Download the ZIP](https://github.com/victorcash/DesktopRavePressKit/raw/refs/heads/main/Downloads/Desktop-Rave-Demo-Press-Pack.zip)** — **25.0 MiB**, 26,175,037 bytes. No account or repository clone is needed.
+**[Download the ZIP](https://github.com/victorcash/DesktopRavePressKit/raw/refs/heads/main/Downloads/Desktop-Rave-Demo-Press-Pack.zip)** — **25.0 MiB**, 26,175,341 bytes. No account or repository clone is needed.
 
 Includes the press release and shorter copy in Markdown/plain text, press facts, demo FAQ, reviewer and recording guides, contact details, dated build information, four original 4K screenshots, a transparent English logo, landscape key art, captions and the license.
 
@@ -10,4 +10,4 @@ The selected screenshots show the heart-shaped club, cyan club / Floor Skin coll
 
 Open `START-HERE.txt` after extracting the ZIP. Its written materials link back to the public kit for extras. This pack contains the 26 September announcement with game descriptions updated 27 September 2026; check Steam availability before publishing later.
 
-SHA-256: `c0c5a046fa818743460de7778c3023697e2f95c818ba0c73c67a10da8a3f6e01`
+SHA-256: `3e8922e457dd1526120e01bdddd90f58b955c0983298d4912d2bb0a05bb026a1`

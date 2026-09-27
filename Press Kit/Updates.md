@@ -10,6 +10,12 @@
 
 The screenshot collection contains supplied gameplay captures with no recorded capture Build IDs. They should not be used to identify the version of the current preview. The gallery labels the screenshot showing Player Level 11 separately from the demo, which caps progression at Player Level 9.
 
+## 27 September 2026 — default video preview selected
+
+- Selected `Trailer/desktop-rave-vertical-gameplay-760x1080.mp4` as the default video preview: 760 × 1080, about 9.6 seconds, 9.3 MB, with audio.
+- Updated the kit's preview links and regenerated the plain-text copy and essential pack. Videos remain separate downloads.
+- Kept the older 12-second landscape clip as a silent alternative.
+
 ## 27 September 2026 — game descriptions aligned
 
 - Added the agreed short, medium and long descriptions to the press-copy page.

@@ -32,7 +32,7 @@ The announcement was issued on **26 September 2026**, with game descriptions upd
 - [Build and kit updates](Press%20Kit/Updates.md) — dated preview information and kit changes.
 - [Screenshots](Screenshots/README.md) and [logos / key art](GraphicAssets/README.md) — coverage assets and suggested credits.
 - [Announcement trailer](https://youtu.be/ZPDBeV7jJk4) and [downloadable MP4](https://drive.google.com/file/d/1IGW7Pgp2MChqkPpSixwjEi5Id61g8Oel/view?usp=drive_link).
-- [12-second silent gameplay clip](Trailer/desktop-rave-audio-reactive-12s-silent.mp4) — a compact audio-reactive visual excerpt for coverage.
+- [Gameplay preview](Trailer/desktop-rave-vertical-gameplay-760x1080.mp4) — the default preview: 760 × 1080, about 9.6 seconds, 9.3 MB, with audio.
 - [Video download guide](Trailer/README.md) — direct download links, formats and music guidance.
 - [Steam demo](https://store.steampowered.com/app/4987280/) and [full game](https://store.steampowered.com/app/3952790/).
 

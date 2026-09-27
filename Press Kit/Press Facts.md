@@ -9,7 +9,7 @@
 
 [Demo FAQ](Demo%20FAQ.md) · [Preview keys and questions](Contact.md) · [Build and kit updates](Updates.md)
 
-[Demo Steam page](https://store.steampowered.com/app/4987280/) · [full-game Steam page](https://store.steampowered.com/app/3952790/) · [demo announcement trailer](https://youtu.be/ZPDBeV7jJk4) · [downloadable trailer](https://drive.google.com/file/d/1IGW7Pgp2MChqkPpSixwjEi5Id61g8Oel/view?usp=drive_link) · [12-second silent gameplay clip](https://github.com/victorcash/DesktopRavePressKit/blob/main/Trailer/desktop-rave-audio-reactive-12s-silent.mp4) · [visual assets](https://github.com/victorcash/DesktopRavePressKit)
+[Demo Steam page](https://store.steampowered.com/app/4987280/) · [full-game Steam page](https://store.steampowered.com/app/3952790/) · [demo announcement trailer](https://youtu.be/ZPDBeV7jJk4) · [downloadable trailer](https://drive.google.com/file/d/1IGW7Pgp2MChqkPpSixwjEi5Id61g8Oel/view?usp=drive_link) · [9.6-second gameplay preview with audio](https://github.com/victorcash/DesktopRavePressKit/raw/refs/heads/main/Trailer/desktop-rave-vertical-gameplay-760x1080.mp4) · [visual assets](https://github.com/victorcash/DesktopRavePressKit)
 
 ## Short description
 

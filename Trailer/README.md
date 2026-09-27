@@ -2,7 +2,15 @@
 
 [Press-kit home](../README.md) · [Recording your own footage](../Press%20Kit/Recording%20Guide.md) · [Contact](../Press%20Kit/Contact.md)
 
-## Quick silent gameplay excerpt
+## Default gameplay preview
+
+**[Download the gameplay preview](https://github.com/victorcash/DesktopRavePressKit/raw/refs/heads/main/Trailer/desktop-rave-vertical-gameplay-760x1080.mp4)** — **760 × 1080, 30 fps, H.264 MP4, about 9.6 seconds, 8.86 MiB (9.3 MB), with audio**.
+
+Use this clip when sharing a video preview of Desktop Rave. It shows the club running on a desktop and retains the original recording's audio.
+
+Suggested caption: “A club running on the desktop in Desktop Rave: Idle Audio Club.” Suggested credit: **Desktop Rave: Idle Audio Club / 28 Ducks**.
+
+## Silent alternative — 12-second landscape excerpt
 
 **[Download the 12-second MP4](https://github.com/victorcash/DesktopRavePressKit/raw/refs/heads/main/Trailer/desktop-rave-audio-reactive-12s-silent.mp4)** — **1280 × 720, 30 fps, H.264, 1.83 MiB, no audio track**.
 
@@ -25,4 +33,4 @@ The loops are optional legacy visual assets. For an explicitly silent MP4, use t
 
 ## Publication and music
 
-The supplied visuals may be used in Desktop Rave coverage under the [press-kit license](../LICENSE), including monetized coverage. The silent excerpt contains no music. The original trailer and other recordings may contain third-party audio; the kit does not transfer music rights. See the [recording guide](../Press%20Kit/Recording%20Guide.md#music-and-publication).
+The supplied visuals may be used in Desktop Rave coverage under the [press-kit license](../LICENSE), including monetized coverage. The default gameplay preview includes audio; the silent alternative has no audio track. The original trailer and other recordings may contain third-party audio; the kit does not transfer music rights. See the [recording guide](../Press%20Kit/Recording%20Guide.md#music-and-publication).

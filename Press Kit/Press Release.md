@@ -16,7 +16,7 @@ The club can be rotated, resized and moved freely to fit the space on the screen
 
 The full game is scheduled for 11 November 2026 and can be wishlisted on Steam. The free demo has its own Steam page, linked below.
 
-Screenshots, logos, a demo announcement trailer and a 12-second silent gameplay clip are available in the press kit. There is no coverage embargo. For preview access, questions about the game or additional images, email contact@28ducks.com.
+Screenshots, logos, a demo announcement trailer and a 9.6-second gameplay preview with audio are available in the press kit. There is no coverage embargo. For preview access, questions about the game or additional images, email contact@28ducks.com.
 
 ## Media contact and links
 

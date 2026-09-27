@@ -6,6 +6,10 @@ The public entry point is [README](../README.md). Keep unverified launch copy an
 
 The short, medium and long descriptions in [Press Copy](../Press%20Kit/Press%20Copy.md#short-description) are the base for this kit. They match the campaign's core messaging document as of 27 September 2026. Update all three together when the agreed wording changes. Keep the same focus in the README, announcement, facts, FAQ and reviewer introduction: your music drives the economy, and you create your own unique club. The longer versions add strategic placement, customization, Raver feedback and the freedom to rotate, resize and move the club. Use technical terms only where needed to follow setup or recording instructions.
 
+## Default video preview
+
+Use [the 760 × 1080 gameplay preview](../Trailer/desktop-rave-vertical-gameplay-760x1080.mp4) for the kit's default preview links. It is about 9.6 seconds and includes audio. The older 12-second landscape excerpt remains a silent alternative. Keep existing asset URLs valid and label each clip's audio status accurately.
+
 ## Rebuild the deliverables
 
 Use Python 3.10+ with Pillow available:

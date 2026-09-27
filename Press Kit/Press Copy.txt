@@ -56,7 +56,7 @@ Editor resources
 - Press facts (https://github.com/victorcash/DesktopRavePressKit/blob/main/Press%20Kit/Press%20Facts.md) — release details and demo features.
 - Reviewer guide (https://github.com/victorcash/DesktopRavePressKit/blob/main/Press%20Kit/Reviewer%20Guide.md) — preview access, controls and recording guidance.
 - Screenshots (https://github.com/victorcash/DesktopRavePressKit/tree/main/Screenshots) and graphics (https://github.com/victorcash/DesktopRavePressKit/tree/main/GraphicAssets) — images for coverage.
-- Silent gameplay clip (https://github.com/victorcash/DesktopRavePressKit/blob/main/Trailer/desktop-rave-audio-reactive-12s-silent.mp4) — a 12-second video excerpt.
+- Gameplay preview (https://github.com/victorcash/DesktopRavePressKit/blob/main/Trailer/desktop-rave-vertical-gameplay-760x1080.mp4) — about 9.6 seconds, 760 × 1080, with audio.
 - Press contact: contact@28ducks.com.
 
 For captured audio and music permissions, see the reviewer guide. Permission to use this press copy does not grant rights to third-party music.

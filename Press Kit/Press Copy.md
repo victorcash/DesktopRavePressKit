@@ -58,7 +58,7 @@ Rotate, resize and move your club freely to fit the space on your screen.
 - [Press facts](Press%20Facts.md) — release details and demo features.
 - [Reviewer guide](Reviewer%20Guide.md) — preview access, controls and recording guidance.
 - [Screenshots](../Screenshots/) and [graphics](../GraphicAssets/) — images for coverage.
-- [Silent gameplay clip](../Trailer/desktop-rave-audio-reactive-12s-silent.mp4) — a 12-second video excerpt.
+- [Gameplay preview](../Trailer/desktop-rave-vertical-gameplay-760x1080.mp4) — about 9.6 seconds, 760 × 1080, with audio.
 - Press contact: [contact@28ducks.com](mailto:contact@28ducks.com).
 
 For captured audio and music permissions, see the reviewer guide. Permission to use this press copy does not grant rights to third-party music.

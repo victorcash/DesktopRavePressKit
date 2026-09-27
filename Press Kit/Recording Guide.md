@@ -2,7 +2,7 @@
 
 [Press-kit home](../README.md) · [Existing video downloads](../Trailer/README.md) · [Technical help](Contact.md#technical-help)
 
-For a quick illustration, use the supplied [12-second silent MP4](https://github.com/victorcash/DesktopRavePressKit/raw/refs/heads/main/Trailer/desktop-rave-audio-reactive-12s-silent.mp4). It is 1280 × 720 at 30 fps and has no audio track.
+For a quick illustration, use the [default gameplay preview](https://github.com/victorcash/DesktopRavePressKit/raw/refs/heads/main/Trailer/desktop-rave-vertical-gameplay-760x1080.mp4): 760 × 1080 at 30 fps, about 9.6 seconds, 9.3 MB, with audio. For silent footage, use the [12-second landscape alternative](https://github.com/victorcash/DesktopRavePressKit/raw/refs/heads/main/Trailer/desktop-rave-audio-reactive-12s-silent.mp4), which is 1280 × 720 at 30 fps and has no audio track.
 
 ## OBS starting setup on Windows
 
